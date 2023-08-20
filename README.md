@@ -21,7 +21,7 @@ In the realm of game development, the Game Development Dependencies category off
 
 Game Creation Tools Dependencies encompass an array of software options for designing games of varying complexity. Applications like Blender, Unity Editor, and Godot enable the creation of 3D environments and interactive narratives. Twine, Ink, and Ren'Py simplify the development of text-based interactive stories, accommodating creators of different expertise levels. Advancements in collaboration features, streamlined workflows, and intuitive interfaces could shape the future of game creation, ensuring that creative visions can be brought to life effortlessly.
 
-# if you want to support this project, please a a second to Donate:
+# if you want to support this project, please take a second to Donate:
 
 # Bitcoin - 3KcF1yrY44smTJpVW68m8dw8q64kPtzvtX
 # Dogecoin - DDSxowLFPyBHVdV16hGhWdhyfa8ors3VPd
