@@ -23,7 +23,7 @@ Game Creation Tools Dependencies encompass an array of software options for desi
 
 # if you want to support this project, please a a second to Donate:
 
-Bitcoin - 3KcF1yrY44smTJpVW68m8dw8q64kPtzvtX
-Dogecoin - DDSxowLFPyBHVdV16hGhWdhyfa8ors3VPd
-Gridcoin - RyAcDpYRMWfDHLTizCTLzy58qBgzcfo5eZ
-Peercoin - PA43iLNooKU76u4yPTtL5j97W6zwWkwxV2
+# Bitcoin - 3KcF1yrY44smTJpVW68m8dw8q64kPtzvtX
+# Dogecoin - DDSxowLFPyBHVdV16hGhWdhyfa8ors3VPd
+# Gridcoin - RyAcDpYRMWfDHLTizCTLzy58qBgzcfo5eZ
+# Peercoin - PA43iLNooKU76u4yPTtL5j97W6zwWkwxV2
